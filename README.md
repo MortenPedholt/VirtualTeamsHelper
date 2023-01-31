@@ -1,3 +1,7 @@
+# Disclaimer
+Please use this script with care. Read the Examples before running the script.
+It will uninstall Teams on the virtual client if executed without any parameters.
+
 # Description of VirtualTeamsHelper
 With VirtualTeamsHelper you can use to get information about the Microsoft Teams installation on a Virtual Device such as Windows 365 Cloud PC.
 It will pull information about WEBRTC, Visual C++, version of Teams, Deployment ring of Teams and more.
